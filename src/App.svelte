@@ -10,7 +10,7 @@
 </script>
 
 <Router>
-ENV = {import.meta.env.VITE_ENV}
+
 <Route path="login">
   <Login />
 </Route>
